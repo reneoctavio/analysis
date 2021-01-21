@@ -1,0 +1,11 @@
+numpy
+scipy
+seaborn
+matplotlib
+langid
+tqdm
+pendulum
+jupyter
+scikit-learn
+pandas
+statsmodels
