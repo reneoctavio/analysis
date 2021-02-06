@@ -8,4 +8,4 @@ Each folder contains an analysis of a project.
 
 ### Airbnb Analysis
 
-1. That pandemic shock in the online vacation rental market failed to happen; until it did! | [Code](https://github.com/reneoctavio/analysis/tree/master/airbnb-rj-1)
+1. [That pandemic shock in the online vacation rental market failed to happen; until it did!](https://reneoctavio.medium.com/that-pandemic-shock-in-the-online-vacation-rental-market-failed-to-happen-until-it-did-bae31923686b) | [Code](https://github.com/reneoctavio/analysis/tree/master/airbnb-rj-1)
